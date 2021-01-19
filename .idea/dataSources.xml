@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="slnx" uuid="8dae6884-4722-406a-90ed-daa1db87829b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\samriddhi\Desktop\EE-PROJECT-master\.vs\slnx.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>

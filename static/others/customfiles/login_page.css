@@ -1,0 +1,21 @@
+html,body{
+    height: 100%;
+}
+
+body{
+    background-color:white;
+}
+
+.auto{
+    margin-top:auto;
+    margin-bottom:auto;
+    padding:10px;
+ }
+
+ .check{
+     background-color:violet;
+ }
+
+ .full{
+     height: 100vh;
+ }
